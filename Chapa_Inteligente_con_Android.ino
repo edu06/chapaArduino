@@ -112,6 +112,6 @@ void setup()
         break;
       }  //cierre de switch 
    }
-   //cierre 
+   //cierre // prueba del cierre 
 
 
